@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    height: 770px;
+}
+
+.header{
+    background-color: pink;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.navbar{
+    background-color: pink;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.navbar3{
+    background-color: pink;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.content{
+    background-color: pink;
+    padding: 20px;
+    box-sizing: border-box;
+    width: 60%;
+    float: right;
+    height: 100%;
+}
+.footer{
+    background-color: black;
+    color: rgb(239, 252,252);
+    padding: 20px 0;
+    box-sizing: border-box;
+}
